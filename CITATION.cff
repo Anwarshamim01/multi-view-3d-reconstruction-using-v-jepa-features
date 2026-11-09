@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying manuscript when using this code or study materials."
+type: software
+title: "Multi-View 3D Reconstruction Using V-JEPA Features"
+authors:
+  - family-names: Shamim
+    given-names: Anwar
+  - family-names: Sam
+    given-names: Jeffrin
+repository-code: "https://github.com/Anwarshamim01/multi-view-3d-reconstruction-using-v-jepa-features"
+preferred-citation:
+  type: unpublished
+  title: "Multi-View 3D Reconstruction Using V-JEPA Features"
+  authors:
+    - family-names: Shamim
+      given-names: Anwar
+    - family-names: Sam
+      given-names: Jeffrin
+  url: "https://github.com/Anwarshamim01/multi-view-3d-reconstruction-using-v-jepa-features"
+  notes: "Manuscript."

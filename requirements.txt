@@ -1,0 +1,8 @@
+numpy
+scipy
+pandas
+Pillow
+matplotlib
+opencv-python-headless
+nbformat
+pytest
